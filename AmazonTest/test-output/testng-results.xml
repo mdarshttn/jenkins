@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-27T17:06:22 IST" name="Default suite" finished-at="2023-03-27T17:06:30 IST" duration-ms="7815">
+    <groups>
+    </groups>
+    <test started-at="2023-03-27T17:06:22 IST" name="Default test" finished-at="2023-03-27T17:06:30 IST" duration-ms="7815">
+      <class name="AmazonTest.AmazonTest.QKart">
+        <test-method is-config="true" signature="hiturl()[pri:0, instance:AmazonTest.AmazonTest.QKart@343570b7]" started-at="2023-03-27T17:06:22 IST" name="hiturl" finished-at="2023-03-27T17:06:26 IST" duration-ms="3907" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- hiturl -->
+        <test-method signature="ispageloaded()[pri:1, instance:AmazonTest.AmazonTest.QKart@343570b7]" started-at="2023-03-27T17:06:26 IST" name="ispageloaded" finished-at="2023-03-27T17:06:27 IST" duration-ms="104" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ispageloaded -->
+        <test-method signature="isloginbuttonavailable()[pri:2, instance:AmazonTest.AmazonTest.QKart@343570b7]" started-at="2023-03-27T17:06:27 IST" name="isloginbuttonavailable" finished-at="2023-03-27T17:06:27 IST" duration-ms="56" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isloginbuttonavailable -->
+        <test-method signature="isregisterbuttonavailable()[pri:3, instance:AmazonTest.AmazonTest.QKart@343570b7]" started-at="2023-03-27T17:06:27 IST" name="isregisterbuttonavailable" finished-at="2023-03-27T17:06:27 IST" duration-ms="52" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isregisterbuttonavailable -->
+        <test-method signature="issearchbaravailable()[pri:4, instance:AmazonTest.AmazonTest.QKart@343570b7]" started-at="2023-03-27T17:06:27 IST" name="issearchbaravailable" finished-at="2023-03-27T17:06:27 IST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- issearchbaravailable -->
+        <test-method signature="issearchbarenalbled()[pri:5, instance:AmazonTest.AmazonTest.QKart@343570b7]" started-at="2023-03-27T17:06:27 IST" name="issearchbarenalbled" finished-at="2023-03-27T17:06:27 IST" duration-ms="28" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- issearchbarenalbled -->
+        <test-method signature="isbannervisible()[pri:6, instance:AmazonTest.AmazonTest.QKart@343570b7]" started-at="2023-03-27T17:06:27 IST" name="isbannervisible" finished-at="2023-03-27T17:06:27 IST" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isbannervisible -->
+        <test-method signature="isproductavailable()[pri:7, instance:AmazonTest.AmazonTest.QKart@343570b7]" started-at="2023-03-27T17:06:27 IST" name="isproductavailable" finished-at="2023-03-27T17:06:27 IST" duration-ms="53" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isproductavailable -->
+        <test-method signature="titlecheck()[pri:8, instance:AmazonTest.AmazonTest.QKart@343570b7]" started-at="2023-03-27T17:06:27 IST" name="titlecheck" finished-at="2023-03-27T17:06:27 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titlecheck -->
+        <test-method signature="areproductloading()[pri:9, instance:AmazonTest.AmazonTest.QKart@343570b7]" started-at="2023-03-27T17:06:27 IST" name="areproductloading" finished-at="2023-03-27T17:06:30 IST" duration-ms="3237" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- areproductloading -->
+        <test-method signature="isaddtocartbuttonavailable()[pri:10, instance:AmazonTest.AmazonTest.QKart@343570b7]" started-at="2023-03-27T17:06:30 IST" name="isaddtocartbuttonavailable" finished-at="2023-03-27T17:06:30 IST" duration-ms="39" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- isaddtocartbuttonavailable -->
+        <test-method is-config="true" signature="closewindow()[pri:0, instance:AmazonTest.AmazonTest.QKart@343570b7]" started-at="2023-03-27T17:06:30 IST" name="closewindow" finished-at="2023-03-27T17:06:30 IST" duration-ms="144" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closewindow -->
+      </class> <!-- AmazonTest.AmazonTest.QKart -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
