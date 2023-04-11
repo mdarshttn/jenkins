@@ -70,21 +70,12 @@
                 </plugin>
                 <plugin>
                     <artifactId>maven-surefire-plugin</artifactId>
-                    <version>2.20.1</version>
+                    <version>3.0.0-M5</version>
                     <configuration>
-
-                        <systemPropertyVariables>
-                            <!--suppress UnresolvedMavenProperty -->
-                            <browser123>
-<!--                                ${Dbrowser}-->
-                                CHROME
-                            </browser123>
-                        </systemPropertyVariables>
-                        <suiteXmlFiles>
-                            <suiteXmlFile>src/test/resources/testng2.xml</suiteXmlFile>
+                        <suiteXmlFiles> 
+                            <suiteXmlFile>testng.xml</suiteXmlFile>
                         </suiteXmlFiles>
                     </configuration>
-
                 </plugin>
                 <plugin>
                     <artifactId>maven-jar-plugin</artifactId>

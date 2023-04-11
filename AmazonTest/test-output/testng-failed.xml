@@ -3,13 +3,14 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="AmazonTest.AmazonTest.QKart">
+      <class name="AmazonTest.AmazonTest.Cart">
         <methods>
-          <include name="closewindow"/>
-          <include name="hiturl"/>
-          <include name="issearchbaracceptingtext"/>
+          <include name="ischeckoutbuttonavailable"/>
+          <include name="gotoproduct"/>
+          <include name="close"/>
+          <include name="isbuttonavailable"/>
         </methods>
-      </class> <!-- AmazonTest.AmazonTest.QKart -->
+      </class> <!-- AmazonTest.AmazonTest.Cart -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
